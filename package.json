@@ -1,6 +1,6 @@
 {
   "name": "meetups",
-  "homepage": "https://visavadiyavrushik.github.io/",
+  "homepage": "https://visavadiyavrushik.github.io/meetups-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
