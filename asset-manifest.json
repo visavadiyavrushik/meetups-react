@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meetups-react/static/css/main.1d6e9e7d.chunk.css",
-    "main.js": "/meetups-react/static/js/main.bfee8bf4.chunk.js",
-    "main.js.map": "/meetups-react/static/js/main.bfee8bf4.chunk.js.map",
+    "main.js": "/meetups-react/static/js/main.4c996168.chunk.js",
+    "main.js.map": "/meetups-react/static/js/main.4c996168.chunk.js.map",
     "runtime-main.js": "/meetups-react/static/js/runtime-main.7ca5b483.js",
     "runtime-main.js.map": "/meetups-react/static/js/runtime-main.7ca5b483.js.map",
     "static/js/2.c202dd08.chunk.js": "/meetups-react/static/js/2.c202dd08.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7ca5b483.js",
     "static/js/2.c202dd08.chunk.js",
     "static/css/main.1d6e9e7d.chunk.css",
-    "static/js/main.bfee8bf4.chunk.js"
+    "static/js/main.4c996168.chunk.js"
   ]
 }
